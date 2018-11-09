@@ -27,16 +27,16 @@ precode {
 }
 
 strong, b{
-  color:#3373CF;
+  color:#3B7BBA;
 }
 
 em, i{
-  color:#3373CF;
+  color:#3B7BBA;
 }
 
 big{
   font-size:22px;  
-  color:#2F4F73;  
+  color:#1C3D5C;  
   font-weight: bold;  
   vertical-align: middle;  
   border-bottom:1px solid #eee;
@@ -92,7 +92,7 @@ dldd{
 blockquote, q{
   font-size:15px;
   line-height:25px;
-  border-left:3px solid #F6C74D;  
+  border-left:3px solid #00B5A7;  
   padding:0 10px;  
   color:#777;  
   quotes: none;
@@ -108,7 +108,7 @@ h1{
   text-align:center;
   margin-left:35px;
   margin-right:35px;
-  border-bottom:4px solid #F6C74D;
+  border-bottom:4px solid #00B5A7;
   padding-bottom:5px;  
 }
 h2{
@@ -116,11 +116,11 @@ h2{
   text-align:center;
   margin-left:35px;
   margin-right:35px;
-  border-bottom:2px solid #F6C74D;
+  border-bottom:2px solid #00B5A7;
 }
 h3{
   font-size:20px;
-  border-bottom:1px solid #F6C74D;
+  border-bottom:1px solid #00B5A7;
 }
 h4{
   font-size:18px;
